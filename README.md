@@ -6,5 +6,5 @@ For testing:
 
 >java TestGame
 
-![Alt text](http://full/path/to/img.jpg "Optional title")
+![Alt text](https://imgur.com/a/YkMYqWT "Optional title")
 
