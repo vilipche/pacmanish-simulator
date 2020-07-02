@@ -6,5 +6,5 @@ For testing:
 
 >java TestGame
 
-![Alt text](https://imgur.com/GoWQqqN")
+![Alt text](https://i.imgur.com/GoWQqqN.png)
 
